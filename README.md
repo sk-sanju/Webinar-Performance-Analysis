@@ -49,61 +49,61 @@ Displays total unique users, total attendees, and converted leads across all web
 
 ### 👥 3. Total Interns by L1s
 Shows how many interns were handled by each L1.
-![Total Interns](./screenshots/total_interns_l1s.png)
+![Total Interns](./screenshots/total_interns.png)
 
 ---
 
 ### 📘 4. Sessions Attended by L1s
 Represents how many sessions each L1 attended.
-![Sessions by L1s](./screenshots/sessions_attended_l1s.png)
+![Sessions by L1s](./screenshots/sessions_attended.png)
 
 ---
 
 ### 💬 5. One-to-One Attended L1s
 Breakdown of individual one-on-one sessions conducted by each L1.
-![One-to-One](./screenshots/one_to_one_l1s.png)
+![One-to-One](./screenshots/one_to_one.png)
 
 ---
 
 ### 🔁 6. Retargeted Leads by L1s
 Insights into how many leads were retargeted by each L1.
-![Retargeted Leads](./screenshots/retargeted_leads_l1s.png)
+![Retargeted Leads](./screenshots/retargeted_leads.png)
 
 ---
 
 ### 📤 7. Shares by L1s (Webinar-wise)
 Visualization of content shared by each L1 for Webinar 1, 2, and 3.
-![Shares by L1s](./screenshots/shares_by_l1s.png)
+![Shares by L1s](./screenshots/shares.png)
 
 ---
 
 ### 📦 8. Attendees Count by Segment
 Breaks down attendance by categories like Ghost-outs, Potential, Drop-outs.
-![Attendees by Segment](./screenshots/attendees_by_segment.png)
+![Attendees by Segment](./screenshots/attendees_count.png)
 
 ---
 
 ### 🎯 9. Sessions Attended by Interns
 Detailed chart showing intern-wise attendance across sessions.
-![Sessions by Interns](./screenshots/sessions_attended_interns.png)
+![Sessions by Interns](./screenshots/attended_interns.png)
 
 ---
 
 ### 📉 10. Churn Count by L1s
 Churn trends by L1, indicating how many leads were lost after each webinar.
-![Churn Count](./screenshots/churn_count_l1s.png)
+![Churn Count](./screenshots/churn_count.png)
 
 ---
 
 ### 🔻 11. Churn Percentage by L1s
 Visual percentage comparison of churned interns across L1s.
-![Churn Percentage](./screenshots/churn_percentage_l1s.png)
+![Churn Percentage](./screenshots/churn_percentage.png)
 
 ---
 
 ### 📅 12. Sessions Attended by L1s (Webinar-wise)
 Chart showing how many sessions each L1 attended in individual webinars.
-![Sessions Webinar-wise](./screenshots/sessions_attended_by_l1s_webinars.png)
+![Sessions Webinar-wise](./screenshots/attended_l1's.png)
 
 ---
 
@@ -119,9 +119,9 @@ Chart showing how many sessions each L1 attended in individual webinars.
 
 ## ✍️ Author
 
-**Sanju S**  
+**Sanjay S**  
 _Data Analyst & BI Developer_  
-GitHub: [github.com/your-username](https://github.com/sk-sanju)
+GitHub: [Sanjay S](https://github.com/sk-sanju/)
 
 ---
 
