@@ -10,6 +10,14 @@ To track and improve the efficiency of webinar campaigns by measuring key perfor
 
 ---
 
+![Payment Status](./screenshots/main.png)
+
+---
+
+![Payment Status](./screenshots/second.png)
+
+---
+
 ## 🛠 Tools Used
 
 - **Microsoft Power BI / Excel**
